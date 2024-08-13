@@ -1,3 +1,8 @@
+""" Desarrolla un programa que calcule el total de ventas de un día, el promedio de ventas y la venta
+más alta. El usuario debe ingresar el número de ventas del día y luego el valor de cada venta.
+Solicitar al usuario el número total de ventas del día. Calcular y mostrar el total de ventas, el
+promedio y la venta más alta. Mínimo 10 entradas."""
+
 
 #Funcion que calcula el total de las ventas por dia
 def sumatoria_ventas(ventas):
